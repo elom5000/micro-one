@@ -1,6 +1,7 @@
 budy{
     background: yellowgreen;
     align-items: center;
-    border: 0ch;
+    border: 1ch;
     font-size: medium;
+    text-decoration: double;
 }
