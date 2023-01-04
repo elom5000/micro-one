@@ -1,5 +1,10 @@
 budy{
     background: yellowgreen;
     align-items: center;
+<<<<<<< HEAD
+=======
+    border: 1ch;
+>>>>>>> feature-3
     font-size: medium;
+    text-decoration: double;
 }
